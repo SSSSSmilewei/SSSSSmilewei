@@ -1,6 +1,5 @@
 ## Saluton👋! Mi estas **Smilewei**! 
 
-# Kiu mi estas
 Smilewei · Shanmeow · 围笑 · 山猫猫
 
 我在学习计算机科学。
