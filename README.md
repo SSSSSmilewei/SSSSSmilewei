@@ -10,3 +10,5 @@ Smilewei · Shanmeow · 围笑 · 山猫猫
 我喜欢音乐游戏、计算机科学、社会科学和摄影。
 
 stay **HUNGRY**, stay **FODISH**. and remember everything is **JUST FOR FUN**.
+
+越过长城，走向世界。
