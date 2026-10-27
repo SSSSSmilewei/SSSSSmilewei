@@ -2,7 +2,7 @@
 
 Smilewei · Shanmeow · 围笑 · 山猫猫
 
-I am studying computer science, aiming to become an exceptional carbon-based developer (currently powered by AI).
+I am studying computer science, aiming to become an exceptional carbon-based developer (currently powered by A1).
 
 I play [maimai でらっくす](https://maimai.sega.jp/).
 
