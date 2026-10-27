@@ -2,12 +2,13 @@
 
 Smilewei · Shanmeow · 围笑 · 山猫猫
 
-我在学习计算机科学。
+I am studying computer science, aiming to become an exceptional carbon-based developer (currently powered by AI).
+
+I play [maimai でらっくす](https://maimai.sega.jp/).
 
 [![DX-Rating](https://dxrating.luoling.moe/api/genImage/sssssmilewei)](https://github.com/luoling8192/dxrating)
-我游玩[maimai でらっくす](https://maimai.sega.jp/) 
 
-我喜欢音乐游戏、计算机科学、社会科学和摄影。
+I love rhythm games, social sciences, and Vocaloid.
 
 stay **HUNGRY**, stay **FODISH**. and remember everything is **JUST FOR FUN**.
 
